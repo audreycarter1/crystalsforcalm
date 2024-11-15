@@ -1,5 +1,4 @@
 field,display_name,search
-date,Date,true
-creator,Creator,true
-subject,Subjects,true
-location,Location,true
+title,Title,TRUE
+stone_type,Stone Type,TRUE
+location,Location,TRUE
