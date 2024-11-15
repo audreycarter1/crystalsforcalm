@@ -1,7 +1,7 @@
 field,display_name,btn,hidden,sort_name
-subject,Healing Properties,TRUE,,Healing Properties
-location,Location,TRUE,,Location
-color,Color,TRUE,,Color
+subject,Healing Properties,true,,Healing Properties
+location,Location,true,,Location
+color,Color,true,,Color
 stone_type,Stone Type,,,Stone Type
-chakra_alignment,Chakra Alignment,TRUE,,Chakra
-zodiac_association,Zodiac Association,TRUE,,Zodiac
+chakra_alignment,Chakra Alignment,true,,Chakra
+zodiac_association,Zodiac Association,true,,Zodiac
