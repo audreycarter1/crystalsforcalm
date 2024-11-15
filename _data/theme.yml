@@ -50,8 +50,8 @@ map-cluster-radius: 10 # size of clusters, from ~ 10 to 80
 ##########
 # TIMELINE PAGE
 #
-year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
-year-nav-increment: # 5 # set increments when auto gen nav years
+# year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
+# year-nav-increment: # 5 # set increments when auto gen nav years
 
 ##########
 # DATA 
@@ -96,8 +96,8 @@ bootswatch: minty
 base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#00e68a"
-base-font-family: minty
-font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+base-font-family: 'Roboto Condensed', sans serif;
+font-cdn: <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
