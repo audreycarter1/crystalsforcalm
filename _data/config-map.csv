@@ -1,4 +1,4 @@
 field,display_name,search
-title,Title,TRUE
-stone_type,Stone Type,TRUE
-location,Location,TRUE
+title,Title,true
+stone_type,Stone Type,true
+location,Location,true
