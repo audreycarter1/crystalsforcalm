@@ -1,5 +1,5 @@
 objectid,filename,title,format,subject,location,color,stone_type,chakra_alignment,zodiac_association
-item_001,Citrine.jpg,Citrine,Image/JPEG,Dreams; Joy; Creativity; Inspiration; Abundance; Protection,"Bloomington, Indiana",Yellow,Raw crystal,Third Eye; Solar Plexus; Sacral; Root,Aries; Gemini; Leo; Libra
+item_001,Citrine.jpg,Citrine,image/jpeg,Dreams; Joy; Creativity; Inspiration; Abundance; Protection,"Bloomington, Indiana",Yellow,Raw crystal,Third Eye; Solar Plexus; Sacral; Root,Aries; Gemini; Leo; Libra
 item_002,Carnelian.jpg,Carnelian,Image/JPEG,Courage; Confidence; Grounding; Passion; Sexuality; Power,"Charleston, South Carolina",Red,Raw crystal,Solar Plexus; Sacral; Root,Taurus; Cancer; Leo; Virgo
 item_003,Opalite.jpg,Opalite,Image/JPEG,Balance; Healing; Confidence; Self-Love,"Bloomington, Indiana",Blue; Yellow; Green; Purple,Tumbled stone,Crown; Third Eye,Cancer; Libra; Scorpio; Pisces; Taurus
 item_004,Zebra_jasper.jpg,Zebra Jasper,Image/JPEG,Transformation; Balance; New Beginnings; Intuition; Grounding,"Louisville, Kentucky",White; Black,Tumbled stone,Root,Libra
