@@ -1,0 +1,4 @@
+field,display_name,search
+title,Title,TRUE
+stone_type,Stone Type,TRUE
+location,Location,TRUE
