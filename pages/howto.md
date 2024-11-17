@@ -31,5 +31,5 @@ After cleansing and charging, it's time to use your crystals! There is no right 
 
 Before you work with your crystals, make sure you set your intentions first. Focus on the exact problem and your desired solution, then say your intention out loud while holding the crystal that aligns with that energy. Visualize the healing energy leaving the crystal and entering your body or home.  
 
-[Browse the collection to find information about the healing properties of specific crystals.](/browse.html)
+[Browse the collection to find information about the healing properties of specific crystals.](https://audreycarter1.github.io/crystalsforcalm/browse.html)
 
