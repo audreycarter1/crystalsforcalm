@@ -1,10 +1,10 @@
 ---
-title: How To Guide
+title: How-To Guide
 layout: about
 permalink: /howto.html
 ---
 
-# How To Guide: Using Healing Crystals  
+# How-To Guide: Using Healing Crystals  
 Crystals are believed to have special energy that will effect various aspects of your life and well-being. Crystals have high vibrational frequencies and interact with the body's energy field, and in doing so, they channel and direct energy, unblock and align chakras, and guide our intentions. 
 
 ## Cleansing  
