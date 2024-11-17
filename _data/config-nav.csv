@@ -5,4 +5,6 @@ Subjects,/subjects.html,
 Locations,/locations.html,
 Map,/map.html,
 Data,/data.html,
-About,/about.html,
+About,,
+About the Collection,/about.html,About
+How To Guide,/howto.html,About
