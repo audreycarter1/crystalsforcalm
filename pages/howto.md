@@ -15,7 +15,7 @@ Some methods of cleansing crystals include:
 * **Smudging:** Burning sage purifies and clears negative energy. Smudge each crystal individually.  
 *Note: Be sure to check if your crystals are waterproof before doing any rituals involving water. For example, selenite, calcite, and azurite should not be submerged in water.*  
 
- ## Charging  
+## Charging  
 Crystals can also be depleted of energy when they are used, so make sure to charge them frequently. Some methods of charging include:  
 * **Sunlight:** Let your crystals sit outside in the sunshine, or inside in a spot with lots of sunlight.  
 * **Moonlight:** Similar to charging with sunlight, placing your crystals outside or inside under the moonlight will also charge them.  
