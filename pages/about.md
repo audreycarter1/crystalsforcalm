@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://nypost.com/wp-content/uploads/sites/2/2023/11/iStock-1320619364.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection" %}
+{% include feature/nav-menu.html sections="About the Collection" "About Metadata" %}
 
 ## About the Collection
 
