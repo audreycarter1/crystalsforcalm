@@ -14,8 +14,17 @@ credits: true
 
 ## About the Collection
 
-The 26 objects in the Crystals for Calm digital collection come from the private collection of Audrey Carter, a graduate student in the Midwest. Audrey began collecting crystals about four years ago when she learned about their uses for meditation and healing. Recently, Audrey noticed a gap in databases about crystals--they were either highly scientific or created for the sole purpose of advertising and selling crystals. Crystals for Calm aims to reconcile the two by providing a collection to serve as a crystal knowledge base that is easy for the general population to understand, and does not have an ulterior motive of buying or selling.  
+The 26 objects in the Crystals for Calm digital collection come from the private collection of Audrey Carter, a graduate student in the Midwest. Audrey began collecting crystals about four years ago when she learned about their uses for meditation and healing. Recently, Audrey noticed a gap in databases about crystals--they were either highly scientific or created for the sole purpose of advertising and selling crystals. Crystals for Calm aims to reconcile the two by providing a collection to serve as a crystal knowledge base that is easy for the general population to understand, and does not have an ulterior motive of buying or selling. Our database can be used to identify crystals, research which crystals you need for specific purposes, and learn more about how to use your crystals.    
 Whether you are new to healing crystals or have an established collection, Crystals for Calm will help you learn which crystals will be best for you and your goals.  
+
+## About Metadata  
+More information on a few of our searchable and browsable metadata fields:
+
+* **Location:** Where Audrey purchased the crystals. Most have come from crystal and metaphysical shops, markets, or museums.
+* **Stone Type:** Refers to the form of the crystal that was purchased. Raw crystals are untouched and untreated, while tumbled stones have been put through a rotary or vibratory tumbler to smooth and polish them. Towers are crystals that have been carved and polished into a tower with a point, and they direct energy upwards and outwards.
+* **Subject:** In this case, the subjects are the healing properties of each crystal.
+* **Chakra Alignment:** Crystals are aligned with one or more of the seven chakras, which are energy centers in the body. The chakra system originated in India between 1500 and 500 BCE. When the aligning crystals are placed on the part of the body where the chakra is said to be centered, they can balance and "unblock" the chakras.
+* **Zodiac Association:** Western astrology signs, or zodiac signs, have various strengths, weaknesses, and aptitudes that are attributed to them. Healing crystals associated with an individual's sun sign can emphazise these positive qualities and counteract the negative ones.  
 
 ### Technical Information
 

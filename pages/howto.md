@@ -5,7 +5,8 @@ permalink: /howto.html
 ---
 
 # How-To Guide: Using Healing Crystals  
-Crystals are believed to have special energy that will effect various aspects of your life and well-being. Crystals have high vibrational frequencies and interact with the body's energy field, and in doing so, they channel and direct energy, unblock and align chakras, and guide our intentions. 
+Crystals are believed to have special energy that will effect various aspects of your life and well-being. Crystals have high vibrational frequencies and interact with the body's energy field, and in doing so, they channel and direct energy, unblock and align chakras, and guide our intentions.  
+The metaphysical properties and healing abilities of crystals remains a debate, as it is dismissed as a pseudoscience by the scientific community. Even if you only experience a placebo effect, we hope the following rituals bring you some calmness.
 
 ## Cleansing  
 Crystals can hold negative energy, so it's important to cleanse your crystals before use, especially after they have first been purchased. 
@@ -33,3 +34,10 @@ Before you work with your crystals, make sure you set your intentions first. Foc
 
 [Browse the collection to find information about the healing properties of specific crystals.](https://audreycarter1.github.io/crystalsforcalm/browse.html)
 
+### Sources  
+Hall, J. (2003). *The crystal bible: A definitive guide to crystals.* Krause Publications.  
+Hall, J. (2013). *The crystal bible 3.* Krause Publications.  
+[International Gem Society](https://www.gemsociety.org/)  
+[Stanford Report](https://news.stanford.edu/stories/2018/08/understanding-peoples-obsession-crystals)  
+[Healthline](https://www.healthline.com/health/mental-health/guide-to-healing-crystals)  
+[Tiny Rituals](https://tinyrituals.co/blogs/tiny-rituals/healing-crystal-guide-essential-gemstones?srsltid=AfmBOorP-e5InBmoDTbbSKn3DMTSfOk4g1_r7Te7uLBco1tJau-DXQW9)  
