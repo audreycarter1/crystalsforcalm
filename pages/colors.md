@@ -1,8 +1,10 @@
 ---
 title: Colors
-layout: timeline
+layout: cloud
 permalink: /colors.html
-# a timeline visualization will be added below the content in this file
+cloud-fields: color
+cloud-min: 1
+cloud-stopwords:
 ---
 
-## Crystal Colors
+## Browse Crystal Colors
