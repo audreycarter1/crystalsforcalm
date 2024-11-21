@@ -26,6 +26,8 @@ More information on a few of our searchable and browsable metadata fields:
 * **Chakra Alignment:** Crystals are aligned with one or more of the seven chakras, which are energy centers in the body. The chakra system originated in India between 1500 and 500 BCE. When the aligning crystals are placed on the part of the body where the chakra is said to be centered, they can balance and "unblock" the chakras.
 * **Zodiac Association:** Western astrology signs, or zodiac signs, have various strengths, weaknesses, and aptitudes that are attributed to them. Healing crystals associated with an individual's sun sign can emphazise these positive qualities and counteract the negative ones.
 
+{% include feature/image.html objectid="item_014" width="75" %}  
+
 ## Acknowledgements
 All photos of digital objects in this collection were created by and are owned by Audrey Carter.  
 Rights to the crystals themselves are owned by the original vendors and creators.  
