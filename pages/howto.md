@@ -20,8 +20,11 @@ Some methods of cleansing crystals include:
 Crystals can also be depleted of energy when they are used, so make sure to charge them frequently. Some methods of charging include:  
 * **Sunlight:** Let your crystals sit outside in the sunshine, or inside in a spot with lots of sunlight.  
 * **Moonlight:** Similar to charging with sunlight, placing your crystals outside or inside under the moonlight will also charge them.  
-* **Place in soil:** Bury your crystals in the soil overnight to re-strengthen their connection to the Earth. This can be done outside or even in the potting soil of your houseplant!  
-*Note: As with water, check to make sure your crystals can be placed in direct sunlight, as sometimes the sun can fade or damage them.*  
+* **Place in soil:** Bury your crystals in the soil overnight to re-strengthen their connection to the Earth. This can be done outside or even in the potting soil of your houseplant!
+* **Other Crystals:** One of Selenite's properties is energy transfer and cleansing, meaning it can charge your other crystals.
+*Note: As with water, check to make sure your crystals can be placed in direct sunlight, as sometimes the sun can fade or damage them.*
+
+{% include feature/image.html objectid="item_012" width="75" %}  
 
 ## Using Your Healing Crystals
 After cleansing and charging, it's time to use your crystals! There is no right or wrong way to use healing crystals, but here are some ideas:  
