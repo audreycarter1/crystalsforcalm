@@ -6,6 +6,8 @@ permalink: /howto.html
 
 {% include feature/jumbotron.html objectid="https://nypost.com/wp-content/uploads/sites/2/2023/11/iStock-1320619364.jpg" %}  
 
+{% include feature/nav-menu.html sections="Cleansing;Charging;How to Use Crystals;Sources" %}  
+
 # How-To Guide: Using Healing Crystals  
 Crystals are believed to have special energy that will effect various aspects of your life and well-being. Crystals have high vibrational frequencies and interact with the body's energy field, and in doing so, they channel and direct energy, unblock and align chakras, and guide our intentions.  
 The metaphysical properties and healing abilities of crystals remains a debate, as it is dismissed as a pseudoscience by the scientific community. Even if you only experience a placebo effect, we hope the following rituals bring you some calmness.
