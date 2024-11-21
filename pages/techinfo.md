@@ -12,6 +12,8 @@ permalink: /techinfo.html
 
 ### Metadata Application Profile  
 
+[My full Metadata Application Profile can be found here.](https://docs.google.com/spreadsheets/d/1j3LqjlMo5HIOTJemcryQj5R0VVNzJsPQYP5pkGXbL9I/edit?usp=sharing)  
+
 **Context:** *Crystals for Calm* is the private collection of a graduate student in the Midwest. The collection has been developed over the course of four years, and it was originally intended for meditative purposes.  
 
 **Content:** This collection will be comprised of born-digital photographs of 26 individual crystals and descriptive metadata about each crystal. The collection will focus on healing properties of crystals and how to effectively use them for meditation, chakra balancing, and manifestation/attraction.
