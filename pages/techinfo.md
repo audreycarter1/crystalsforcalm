@@ -4,6 +4,8 @@ layout: about
 permalink: /techinfo.html
 ---
 
+{% include feature/jumbotron.html objectid="https://nypost.com/wp-content/uploads/sites/2/2023/11/iStock-1320619364.jpg" %}  
+
 ## Technical Information
 
 ### Metadata Application Profile  
