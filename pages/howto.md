@@ -4,6 +4,8 @@ layout: about
 permalink: /howto.html
 ---
 
+{% include feature/jumbotron.html objectid="https://nypost.com/wp-content/uploads/sites/2/2023/11/iStock-1320619364.jpg" %}  
+
 # How-To Guide: Using Healing Crystals  
 Crystals are believed to have special energy that will effect various aspects of your life and well-being. Crystals have high vibrational frequencies and interact with the body's energy field, and in doing so, they channel and direct energy, unblock and align chakras, and guide our intentions.  
 The metaphysical properties and healing abilities of crystals remains a debate, as it is dismissed as a pseudoscience by the scientific community. Even if you only experience a placebo effect, we hope the following rituals bring you some calmness.
@@ -21,7 +23,7 @@ Crystals can also be depleted of energy when they are used, so make sure to char
 * **Sunlight:** Let your crystals sit outside in the sunshine, or inside in a spot with lots of sunlight.  
 * **Moonlight:** Similar to charging with sunlight, placing your crystals outside or inside under the moonlight will also charge them.  
 * **Place in soil:** Bury your crystals in the soil overnight to re-strengthen their connection to the Earth. This can be done outside or even in the potting soil of your houseplant!
-* **Other Crystals:** One of Selenite's properties is energy transfer and cleansing, meaning it can charge your other crystals.
+* **Other Crystals:** One of Selenite's properties is energy transfer and cleansing, meaning it can charge your other crystals.  
 *Note: As with water, check to make sure your crystals can be placed in direct sunlight, as sometimes the sun can fade or damage them.*
 
 {% include feature/image.html objectid="item_012" width="75" %}  
